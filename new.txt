@@ -1,0 +1,8 @@
+	Name:
+Marina Kotova
+	Age:
+26
+	Animals:
+1
+	Sallary:
+1500$>
