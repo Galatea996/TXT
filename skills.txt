@@ -1,0 +1,16 @@
+	Skills
+Git
+GitHab
+API via Postman
+Charles and Fiddler
+Dev Tools
+VPN
+Mobile testing
+Feature iOS, Android, guidelines
+Building iOS Apps with Xcode
+Building Android Applications with Android Studio
+ADB (android device management)
+Setting up proxy and vpn on iOS and Android
+Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android
+Load Testing in Jmeter
+Scrum Development Methodology
